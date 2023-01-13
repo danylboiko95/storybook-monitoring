@@ -1,0 +1,90 @@
+[
+  {
+    "element": "Button",
+    "count": 4
+  },
+  {
+    "element": "button",
+    "count": 1
+  },
+  {
+    "element": "Header",
+    "count": 2
+  },
+  {
+    "element": "header",
+    "count": 1
+  },
+  {
+    "element": "div",
+    "count": 7
+  },
+  {
+    "element": "svg",
+    "count": 2
+  },
+  {
+    "element": "g",
+    "count": 2
+  },
+  {
+    "element": "path",
+    "count": 4
+  },
+  {
+    "element": "h1",
+    "count": 2
+  },
+  {
+    "element": "span",
+    "count": 2
+  },
+  {
+    "element": "b",
+    "count": 1
+  },
+  {
+    "element": "a",
+    "count": 2
+  },
+  {
+    "element": "Page",
+    "count": 1
+  },
+  {
+    "element": "article",
+    "count": 1
+  },
+  {
+    "element": "section",
+    "count": 1
+  },
+  {
+    "element": "h2",
+    "count": 1
+  },
+  {
+    "element": "p",
+    "count": 3
+  },
+  {
+    "element": "strong",
+    "count": 1
+  },
+  {
+    "element": "ul",
+    "count": 2
+  },
+  {
+    "element": "li",
+    "count": 3
+  },
+  {
+    "element": "Link",
+    "count": 2
+  },
+  {
+    "element": "StatisticColumn",
+    "count": 2
+  }
+]
